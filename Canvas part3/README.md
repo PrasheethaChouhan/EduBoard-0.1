@@ -1,2 +1,2 @@
-# asynchronousBallMovement
-Boiler plate for ball moving aysnchronously
+# Canvas
+Canvas for education and other purposes
